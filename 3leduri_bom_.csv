@@ -1,0 +1,37 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,mfr.part.no,sup.ref,Sim.Pins
+1,Unpolarized capacitor,C,C9,4.7n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,~,GRM31CR72E473KW03L,https://ro.mouser.com/ProductDetail/Murata-Electronics/GRM31CR72E473KW03L?qs=NdShG4hwR%2FfxjPAa9M%2FghA%3D%3D,
+2,Unpolarized capacitor,C,C6 C7,22n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,~,GRM31BR72E223KW01L,http://ro.mouser.com/ProductDetail/Murata-Electronics/GRM31BR72E223KW01L?qs=ra6ln1utXjhhO7tH%2Fqm%252BxQ%3D%3D,
+3,Unpolarized capacitor,C,C3,0.22u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,~,GRM31C5C1H224JE02L,https://ro.mouser.com/ProductDetail/Murata-Electronics/GRM31C5C1H224JE02L?qs=qSfuJ%252Bfl%2Fd7ovrk3%2F2FSbQ%3D%3D,
+4,Unpolarized capacitor,C,C4,1u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,~,GCM31CR71H105KA55L,https://ro.mouser.com/ProductDetail/Murata-Electronics/GCM31CR71H105KA55L?qs=eeBpzGFlv%252B%2FesoqelpcmQA%3D%3D,
+5,Unpolarized capacitor,C,C5 C8 C10,4.7u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,3,~,GCM31CC71H475MA03K,https://ro.mouser.com/ProductDetail/Murata-Electronics/GCM31CC71H475MA03K?qs=QzBtWTOodeVm6tBb%2FlTxEw%3D%3D,
+6,Unpolarized capacitor,C,C2,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,~,GRM31MR61A106KE19L,https://ro.mouser.com/ProductDetail/Murata-Electronics/GRM31MR61A106KE19L?qs=uLxxDnpYPrNhLv76oVsT4Q%3D%3D,
+7,Unpolarized capacitor,C,C1,47u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,~,GCJ31CD70G476ME01L,https://ro.mouser.com/ProductDetail/Murata-Electronics/GCJ31CD70G476ME01L?qs=sGAEpiMZZMsh%252B1woXyUXjwVqLNpRsvnQVJkEkY7XEUI%3D,
+8,Light emitting diode,LED,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18,LED,LED_D5.0mm,18,~,MTE1201C1,https://ro.mouser.com/ProductDetail/Marktech-Optoelectronics/MTE1201C1?qs=sGAEpiMZZMv0DJfhVcWlK%252BBLpHv9OWcQhOWs%2FaLQkqn3QBJQvzd%2Fpw%3D%3D,1=K 2=A
+9,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J1 J3,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",2,~,1732386,https://ro.mouser.com/ProductDetail/Phoenix-Contact/1732386?qs=q88POAGIlTFn%2F3dpEE3JiQ%3D%3D,
+10,"0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92",MPSA42,Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8,MPSA42,TO-92_Inline,8,http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF,MPSA42,https://ro.mouser.com/ProductDetail/onsemi-Fairchild/MPSA42?qs=UMEuL5FsraDu%2F9ZWGlN1JQ%3D%3D,
+11,Resistor,R,R5,1.2m,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,~,AC1206JR-071M2L,https://ro.mouser.com/ProductDetail/YAGEO/SR1206JR-1347RL?qs=xt%2FK%252BZwdrcX9lgw8VMC4Xg%3D%3D,
+12,Resistor,R,R4 R17 R20,47r,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,~,SR1206JR-1347RL,https://ro.mouser.com/ProductDetail/TE-Connectivity-Neohm/EP4WSS47RJ?qs=sGAEpiMZZMtlubZbdhIBIJuZoYe4j7sOfLnGcXaRqTk%3D,
+13,Resistor,R,R10 R15 R16 R16b1 R21 R21b1,150r,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,6,~,SR1206JR-7W150RL,https://ro.mouser.com/ProductDetail/YAGEO/SR1206JR-7W150RL?qs=1X5yxNMcnLxagzLVGX4DGA%3D%3D,
+14,Resistor,R,R11 R11b1,270r,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,~,RCA1206270RJNEA,https://ro.mouser.com/ProductDetail/Vishay/RCA1206270RJNEA?qs=VVKQmw408U%2FD9LNLQdRT1g%3D%3D,
+15,Resistor,R,R6,470r,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,~,SR1206KR-7W470RL,https://ro.mouser.com/ProductDetail/YAGEO/SR1206KR-7W470RL?qs=ABvmyp11Kkjj9l8C%2F3PCeg%3D%3D,
+16,Resistor,R,R1 R2,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,~,RV1206JR-071KL,https://ro.mouser.com/ProductDetail/YAGEO/RV1206JR-071KL?qs=HEu%2FF%2FCqxzLBGGLzy5MRbA%3D%3D,
+17,Resistor,R,R7 R12,4.7k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,~,AR1206JR-074K7L,https://ro.mouser.com/ProductDetail/YAGEO/AR1206JR-074K7L?qs=r5DSvlrkXmLp85SEw6xssw%3D%3D,
+18,Resistor,R,R3 R9 R14 R19,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,~,ERJ-U08J103V,https://ro.mouser.com/ProductDetail/Panasonic/ERJ-U08J103V?qs=pdFhdcvjjghFvwXjR90D9A%3D%3D,
+19,Resistor,R,R8 R13 R18,270k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,~,AF1206JR-07270KL,https://ro.mouser.com/ProductDetail/YAGEO/AF1206JR-07270KL?qs=1mbolxNpo8f656dSDva1DA%3D%3D,
+20,Potentiometer,R_Potentiometer,RV1,R_Potentiometer,Potentiometer_Bourns_3386P_Vertical,1,~,3386P-1-564LF,https://ro.mouser.com/ProductDetail/Bourns/3386P-1-564LF?qs=sGAEpiMZZMukHu%252BjC5l7YYLxEQOYU%2FQe2hISojVBz1c%3D,
+
+
+
+
+
+Component Groups:,20
+Component Count:,63
+Fitted Components:,63
+Number of PCBs:,1
+Total components:,63
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,2025-07-24T14:40:16+0300
+Schematic Source:,3leduri.kicad_sch
+KiCad Version:,Eeschema 9.0.3
