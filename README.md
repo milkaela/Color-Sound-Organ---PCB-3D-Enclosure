@@ -1,4 +1,4 @@
-# Color-Sound-Organ---PCB-3D-Enclosure
+# Color Sound Organ: PCB-3D-Enclosure
 This project contains a complete design for a **sound-reactive light organ** with 3 channels (bass, mid, treble), using a PCB designed in KiCad and a custom 3D-printed case modeled in FreeCAD.
 It is intended as a simple analog project for beginners or hobbyists who want to create visual effects based on audio input.
 
