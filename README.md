@@ -7,9 +7,15 @@ It is intended as a simple analog project for beginners or hobbyists who want to
 
 | File | Description |
 |------|-------------|
-| `3leduri.kicad_pcb` | PCB layout for the color sound organ |
+| `3leduri.kicad_pcb` | PCB layout for the sound organ |
+| `3leduri.kicad_sch` | Schematic diagram (circuit design) |
+| `3leduri.kicad_pro` | KiCad project file |
+| `3leduri.kicad_prl` | Layout view settings |
+| `3leduri.xml`       | Netlist and BOM data export |
+| `3leduri_bom_.csv`  | Bill of materials (CSV format) |
+| `3leduri_bom_.xlsx` | Bill of materials (Excel format) |
+| `fp-info-cache`     | Footprint cache used by KiCad |
 | `cutie2.1.FCStd`    | 3D model of the custom case (FreeCAD format) |
-
 ---
 
 ## 🧠 Functional Description
